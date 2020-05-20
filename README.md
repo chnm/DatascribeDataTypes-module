@@ -1,5 +1,5 @@
-# DataScribe
+# DataScribe Data Types
 
-An [Omeka S](https://omeka.org/s/) module for the transcription of structured data.
+Custom DataScribe data types created by and for the Roy Rosenzweig Center for History & New Media.
 
-When cloning this repository remember to rename the directory from "Datascribe-module" to "Datascribe".
+When cloning this repository remember to rename the directory from "DatascribeDataTypes-module" to "DatascribeDataTypes".
