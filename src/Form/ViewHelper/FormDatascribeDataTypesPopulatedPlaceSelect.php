@@ -1,9 +1,9 @@
 <?php
 namespace DatascribeDataTypes\Form\ViewHelper;
 
-use Zend\Form\Element;
-use Zend\Form\ElementInterface;
-use Zend\Form\View\Helper\AbstractHelper;
+use Laminas\Form\Element;
+use Laminas\Form\ElementInterface;
+use Laminas\Form\View\Helper\AbstractHelper;
 
 class FormDatascribeDataTypesPopulatedPlaceSelect extends AbstractHelper
 {

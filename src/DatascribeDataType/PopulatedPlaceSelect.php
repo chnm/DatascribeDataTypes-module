@@ -3,7 +3,7 @@ namespace DatascribeDataTypes\DatascribeDataType;
 
 use Datascribe\DatascribeDataType\DataTypeInterface;
 use DatascribeDataTypes\Form\Element as DatascribeDataTypesElement;
-use Zend\Form\Fieldset;
+use Laminas\Form\Fieldset;
 
 class PopulatedPlaceSelect implements DataTypeInterface
 {

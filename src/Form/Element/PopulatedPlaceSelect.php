@@ -1,9 +1,9 @@
 <?php
 namespace DatascribeDataTypes\Form\Element;
 
-use Zend\Form\Element;
-use Zend\InputFilter\InputProviderInterface;
-use Zend\Validator;
+use Laminas\Form\Element;
+use Laminas\InputFilter\InputProviderInterface;
+use Laminas\Validator;
 
 class PopulatedPlaceSelect extends Element implements InputProviderInterface
 {
